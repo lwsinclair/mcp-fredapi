@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jaldekoa-mcp-fredapi-badge.png)](https://mseep.ai/app/jaldekoa-mcp-fredapi)
+
 # MCP-FREDAPI
 
 **FRED (Federal Reserve Economic Data) API integration with Model Context Protocol (MCP)**
